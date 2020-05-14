@@ -1,0 +1,1 @@
+SELECT* FROM sys.configurations WHERE configuration_id = 1568
